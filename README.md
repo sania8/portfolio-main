@@ -1,4 +1,4 @@
-# 🌟 Sania's Website Portfolio 🌟
+# 🌟 Website Portfolio 🌟
 
 Welcome to website portfolio repository! This project showcases my skills, projects, and experiences in a visually appealing and user-friendly manner.
 
